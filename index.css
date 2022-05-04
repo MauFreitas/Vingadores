@@ -29,7 +29,7 @@ header img {
     /* Border cria uma borda envolvendo a imagem */
     border: 5px solid #FF812B;
 }
-
+/* classe */
 .center {
     text-align: center;
 }
@@ -42,21 +42,21 @@ footer img {
     width: 40px;
     height: 40px;
 }
-
+/* rodapé */
 footer {
     display: flex;
     justify-content: center;
 }
-
+/* definições do hiperlink do rodapé */
 footer a {
     margin: 20px;
     text-align: center;
 }
-
+/* Dedicado ao paragrafo do rodapé */
 footer p {
     margin-top: 2px;
 }
-
+/* classe */
 .container {
     padding: 0px 50px;
 }
