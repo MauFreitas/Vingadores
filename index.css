@@ -1,0 +1,70 @@
+body {
+    color: #E06510;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+}
+
+ul {
+    /* background-color: white; */
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    
+}
+
+
+a {
+    color: #FF812B;
+    text-decoration: none;
+}
+/* header + img altera apenas as imagens do header */
+header img {
+    width: 1000px;
+    height: 500px;
+    /* Border radius cria um borda ao redor da imagem */
+    border-radius: 10%;
+    /* Border cria uma borda envolvendo a imagem */
+    border: 5px solid #FF812B;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: #FF812B;
+}
+/* footer img altera apenas as imagens do rodapé */
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a {
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #00868F;
+}
