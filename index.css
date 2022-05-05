@@ -22,8 +22,8 @@ a {
 }
 /* header + img altera apenas as imagens do header */
 header img {
-    width: 1000px;
-    height: 500px;
+    width: 640px;
+    height: 360px;
     /* Border radius cria um borda ao redor da imagem */
     border-radius: 10%;
     /* Border cria uma borda envolvendo a imagem */
